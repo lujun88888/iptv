@@ -20,3 +20,4 @@ YY解析接口：http://blanki.cf/api/yy.php?id=
 
 节目预告预览：http://blanki.cf/api/epg.php?id=blank
 
+https://cdn.jsdelivr.net/gh/lujun88888/iptv/*
