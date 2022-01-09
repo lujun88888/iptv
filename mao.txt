@@ -1,15 +1,6 @@
 {
   "sites": [
 {
-    "key": "csp_EPangApp",
-    "name": "(QQ群869790564)",
-    "type": 3,
-    "api": "csp_EPangApp",
-    "searchable": 1,
-    "quickSearch": 0,
-    "filterable": 1
-  },
-{
   "key": "csp_Ysgc",
   "name": "影视工厂(阿在)",
   "type": 3,
